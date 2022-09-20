@@ -1,0 +1,44 @@
+body
+{
+  text-align: center;
+  background-color:  #C2FFF9;
+}
+h1
+{
+  margin-top: 3rem;
+  margin-bottom: 4rem;
+  color: #009DAE;
+  font-family: 'Playfair Display', serif;
+}
+.shops
+{
+  margin-left: 3rem;
+  margin-right: 3rem;
+}
+
+.title
+{
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+}
+.color{
+  padding: 1rem;
+}
+.card-header
+{
+    color: #009DAE;
+  font-family: 'Dancing Script', cursive;
+  font-size: 2rem;
+}
+card{
+  background-color: #C6EBC5;
+}
+.card-title
+{
+  color: #009DAE;
+  font-family: 'Overpass', sans-serif;
+}
+.card-text
+{
+  font-family: 'Noto Serif JP', serif;
+}
